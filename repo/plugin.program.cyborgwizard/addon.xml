@@ -12,8 +12,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Cyborg Wizard</summary>
-    <description lang="en">Ayyyeee yo</description>
-    <platform>all</platform>
+        <summary lang="en">[COLOR green]Cyborg[/COLOR]Wizard</summary>
+        <description lang="en">[COLOR green]Cyborg[/COLOR]Wizard offers pre-set builds mainly for friends and family</description>
+        <platform>all</platform>
   </extension>
 </addon>

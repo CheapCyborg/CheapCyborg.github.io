@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.cyborgrepo" name="[COLOR limegreen]cyborgrepo[/COLOR]" version="1.0.0" provider-name="CheapCyborg">
+<addon id="repository.cyborgrepo" name="[COLOR green]Cyborg's Repository[/COLOR]" version="1.0.0" provider-name="CheapCyborg">
     <extension point="xbmc.addon.repository" name="Cyborg Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/CheapCyborg/Cyborgs-AH2/master/repo/zips/addons.xml</info>

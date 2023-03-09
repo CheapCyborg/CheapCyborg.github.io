@@ -12,11 +12,11 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Cyborg Wizard</summary>
-    <description lang="en">Ayyyeee yo</description>
-    <platform>all</platform>
+        <summary lang="en">[COLOR green]Cyborg[/COLOR]Wizard</summary>
+        <description lang="en">[COLOR green]Cyborg[/COLOR]Wizard offers pre-set builds mainly for friends and family</description>
+        <platform>all</platform>
   </extension>
-</addon><addon id="repository.cyborgrepo" name="[COLOR limegreen]cyborgrepo[/COLOR]" version="1.0.0" provider-name="CheapCyborg">
+</addon><addon id="repository.cyborgrepo" name="[COLOR green]Cyborg's Repository[/COLOR]" version="1.0.0" provider-name="CheapCyborg">
     <extension point="xbmc.addon.repository" name="Cyborg Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/CheapCyborg/Cyborgs-AH2/master/repo/zips/addons.xml</info>
