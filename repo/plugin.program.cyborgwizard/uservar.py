@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]Cyborg[/B][/COLOR]Wizard'
 BUILDERNAME = 'CyborgWizard'
 EXCLUDES = [ADDON_ID, 'repository.cyborgwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://pastebin.com/raw/Bv7KVeMY'
+BUILDFILE = 'https://pastebin.com/raw/um9LeMeK'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
